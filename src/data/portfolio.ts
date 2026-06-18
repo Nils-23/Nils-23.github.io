@@ -45,7 +45,7 @@ export const projects = [
         status: "Live",
         tech: ["React", "Next.js", "Tailwind CSS"],
         liveUrl: "https://www.risingstarminerals.com/services",
-        sourceUrl: "[GitHub URL]",
+        sourceUrl: "https://github.com/Nils-23/CMRS",
         image: "/images/projects/cmrs.png", // Optional screenshot placeholder
         details: {
             problem: "CMRS needed a digital presence that communicated trust, scale, and professionalism to international investors.",
@@ -94,7 +94,7 @@ export const projects = [
         status: "Completed",
         tech: ["Stable Diffusion", "Python", "React Native"],
         liveUrl: "[Live Demo URL]",
-        sourceUrl: "[GitHub URL]",
+        sourceUrl: "https://github.com/Nils-23/AI-Powered-Hairstyle-Try-On-Application",
         image: "/images/projects/hairstyle-tryon.png", // Optional screenshot placeholder
         details: {
             problem: "Existing virtual try-on solutions perform poorly on black hair textures and styles due to dataset bias.",
@@ -110,7 +110,7 @@ export const projects = [
         status: "In Progress",
         tech: ["n8n", "Telegram API", "Node.js", "Docker"],
         liveUrl: "[Live Demo URL]",
-        sourceUrl: "[GitHub URL]",
+        sourceUrl: "https://github.com/Nils-23/CampusCash",
         image: "/images/projects/telegram-loan.png", // Optional screenshot placeholder
         details: {
             problem: "Managing micro-loans requires automated processing but high-stakes decisions need human oversight.",

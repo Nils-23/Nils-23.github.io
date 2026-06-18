@@ -17,7 +17,7 @@ export function Contact() {
                 </div>
                 <div className="space-y-8">
                     <p className="text-2xl sm:text-3xl font-light text-foreground leading-relaxed max-w-2xl">
-                        I am open to discuss interesting contracts, full-time positions, or system design consulting.
+                        I am open to discuss interesting contracts, full/part-time positions, or system design consulting.
                     </p>
 
                     <div className="flex flex-col gap-6 pt-4">
