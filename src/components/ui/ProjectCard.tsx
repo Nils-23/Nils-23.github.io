@@ -70,7 +70,7 @@ export function ProjectCard({ project, index }: ProjectCardProps) {
                             src={project.image}
                             alt={`${project.title} Screenshot`}
                             className={cn(
-                                "w-full h-full",
+                                "w-full h-full grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-500 ease-out",
                                 project.imageFit === "contain" ? "object-contain bg-black" : "object-cover"
                             )}
                             onError={() => setImgError(true)}
