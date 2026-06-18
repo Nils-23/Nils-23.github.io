@@ -41,7 +41,7 @@ export const projects = [
     {
         slug: "cmrs-mining-cooperative",
         title: "Investor-Facing Mining Cooperative Website",
-        description: "Professional, credibility-driven website for CMRS.",
+        description: "Professional, credibility-driven website for COMRS.",
         status: "Live",
         tech: ["React", "Next.js", "Tailwind CSS"],
         liveUrl: "https://www.risingstarminerals.com/services",
