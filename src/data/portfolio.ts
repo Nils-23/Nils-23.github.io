@@ -16,7 +16,7 @@ export const about = {
     philosophy: [
         "I believe in building systems that last. My work isn't just about writing code; it's about understanding the problem space deeply and designing solutions that are robust and scalable.",
         "Experience across automation, machine learning, and product engineering has taught me that the best solutions often come from the intersection of disciplines. I enjoy the challenge of learning new domains and shipping value.",
-        "I value a calm, disciplined approach to engineering. No hype, no fluff—just consistent, high-quality execution.",
+        "I value a calm, disciplined approach to engineering. No hype, just consistent, high-quality execution.",
     ],
 };
 
